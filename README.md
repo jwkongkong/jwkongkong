@@ -1,5 +1,5 @@
 ### 🔈 Hi, I'm KongKong. a backend Java development engineer from China. 
-At the same time, I am very interested in hardware development, such as MCU, CPLD, etc.
+In addition, I am very interested in hardware development, such as MCU, CPLD, etc.
 
 
 <br>
