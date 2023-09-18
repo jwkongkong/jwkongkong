@@ -1,4 +1,13 @@
-### Hi there 👋
+```
+🔈 Hi, I'm KongKong. a backend Java development engineer from China.
+In addition, I am very interested in hardware development, such as MCU, CPLD, etc.
+```
+<br>
+
+- 🎛️ Hobby: **Audio**, **Guitar**, **DIY**, **Geek**
+- ⌨️ Software Dev: **Spring**, **MySQL**, **Next.js**, **TailwindCSS** 
+- 🔩 Hardware: **STM32**, **PCM1794**, **KiCad**
+- 📔 Blog: [MyBlog](https://kongkong.me)
 
 <!--
 **jwkongkong/jwkongkong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
